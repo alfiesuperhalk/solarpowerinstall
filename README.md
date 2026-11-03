@@ -69,6 +69,7 @@ Navigation: at 1100px wide or narrower the top links move into a hamburger menu.
 - Formspree ID `YOUR_FORM_ID` in the booking form (form doesn't send until set)
 - Confirm Pag-IBIG, SSS, Home Credit, GCash are really accepted; use official logo files with permission
 - Trusted By logos are SAMPLES (Surigao seal + Kibawe Farm + 8 made-up names). Replace with real clients, with permission
+- Company profile PDF: save it as `company-profile.pdf` in this folder (the Download button on the profile page links to it; visitors get it as `HE-and-Sons-Company-Profile.pdf`)
 - Do not mention Blu Energy (left out of the company profile on purpose)
 - Founder's middle initial: profile slides say both "Henry G. Yu" and "Henry V. Yu"; the page uses "Henry Yu" in the story and "Henry V. Yu" under the photo
 
