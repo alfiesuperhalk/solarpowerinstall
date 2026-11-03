@@ -8,10 +8,14 @@ Installation website for **SOLAR HE and Sons**. Fil Solar Depot sells the panels
 - **Credit:** totoantonio.cloud (hidden in page meta: `designer`, `creator`, HTML comment)
 
 ## Stack
-One `index.html` (styles + script inside) and `images/`. No framework, no build step. Font: Poppins (Google Fonts).
+Two pages sharing one `styles.css`, plus `images/`. Scripts are inline in each page. No framework, no build step. Font: Plus Jakarta Sans (Google Fonts); Poppins is loaded only for the SOLAR logo.
 
 ## Files
-- `index.html` — the whole site
+- `index.html` — home page
+- `company-profile.html` — HE and Sons Corporation profile (from the HASC sheet of `SolarHEandSons Page.xlsx`); header, footer and hamburger script are copied from `index.html`, so update both when those change
+- `styles.css` — styles for both pages
+- `images/hesc-office.jpg`, `hesc-building.jpg`, `henry-yu.jpg`, `harley-yu.jpg`, `henrik-yu.jpg` — cropped from the profile slides
+- `images/brands.jpg` (logo wall, Blu Energy removed) and `images/logos/*.jpg` (one per business card) — cropped from the "Our Brands" slide; `logos/wd40.svg` is from Wikimedia Commons (public domain)
 - `images/installer.jpg` — hero photo (free Pexels photo 8853504, replace with the real team)
 - `images/og.png` — 1200×630 share preview image
 - `images/favicon.svg`, `images/apple-touch-icon.png` — site icons
@@ -34,7 +38,7 @@ One `index.html` (styles + script inside) and `images/`. No framework, no build 
 | Highlights, phone-bar Call button | Bright yellow | `#F5D33B` |
 | Hero sky | Blue → sunset gold gradient | `#CFE3F5` → `#F8C77A` |
 
-Headlines: Poppins Black Italic, highlighted word in green (yellow on the green booking section). Body: Poppins Regular.
+Headlines: Plus Jakarta Sans ExtraBold Italic, highlighted word in green (yellow on the green booking section). Body: Plus Jakarta Sans Regular.
 
 ## Page sections
 1. Hero: headline, photo fading into the sky gradient, Book / Call buttons, "We Accept" logos (Pag-IBIG, SSS, Home Credit, GCash) level with the buttons; phones: text right-aligned, full-width buttons
@@ -51,7 +55,7 @@ Headlines: Poppins Black Italic, highlighted word in green (yellow on the green 
 
 Cards rise in on scroll and lift on hover. Layout checked from 320px to 1440px wide with no sideways overflow.
 
-Navigation: at 900px wide or narrower the top links move into a hamburger menu. `scroll-padding-top` in the `html` style keeps section titles clear of the sticky header after a menu jump; update it if the header height changes.
+Navigation: at 1100px wide or narrower the top links move into a hamburger menu. `scroll-padding-top` in the `html` style keeps section titles clear of the sticky header after a menu jump; update it if the header height changes.
 
 ## Still draft / need from the company
 - Company name: headline says "Solar Power Install", logo/title/footer say "SOLAR HE and Sons" (decide later)
@@ -65,7 +69,8 @@ Navigation: at 900px wide or narrower the top links move into a hamburger menu. 
 - Formspree ID `YOUR_FORM_ID` in the booking form (form doesn't send until set)
 - Confirm Pag-IBIG, SSS, Home Credit, GCash are really accepted; use official logo files with permission
 - Trusted By logos are SAMPLES (Surigao seal + Kibawe Farm + 8 made-up names). Replace with real clients, with permission
-- Do not mention Blu Energy
+- Do not mention Blu Energy (left out of the company profile on purpose)
+- Founder's middle initial: profile slides say both "Henry G. Yu" and "Henry V. Yu"; the page uses "Henry Yu" in the story and "Henry V. Yu" under the photo
 
 ## SEO / AI visibility
 - `llms.txt` (summary for ChatGPT, Claude, Perplexity), `robots.txt` (all search and AI bots allowed), `sitemap.xml`

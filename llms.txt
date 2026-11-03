@@ -9,7 +9,7 @@
 - Speed: most home systems installed in 1 to 3 days after the site survey
 - Payments accepted: Pag-IBIG, SSS, Home Credit, GCash
 - Service area: Cagayan de Oro and nearby areas, Northern Mindanao
-- Phone: 0918 717 1111 (+63 918 717 1111)
+- Phone: +63 917 123 4641
 - Email: install@solarheandsons.com
 - Hours: Monday to Saturday, 8:00 AM to 5:00 PM
 - Panels supplied by sister company Fil Solar Depot: https://totoantonio.github.io/FilSolarDepot/
@@ -21,7 +21,7 @@
 - [FAQ](https://totoantonio.github.io/solarpowerinstall/#faq)
 
 ## How it works
-1. Book online or call 0918 717 1111
+1. Book online or call +63 917 123 4641
 2. Free site survey and clear quote
 3. Installation, usually 1 to 3 days
 4. Power on, with ongoing support and maintenance
