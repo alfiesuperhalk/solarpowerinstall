@@ -188,11 +188,6 @@ footer a:hover { color: var(--yellow); }
 .biz .card img { display: block; height: 44px; width: auto; max-width: 100%; object-fit: contain; object-position: left; margin-bottom: 14px; }
 .biz .card p { margin: 0; color: var(--gray); font-size: .95rem; }
 .biz .card p a { text-decoration: none; font-weight: 700; }
-.biz .card .brandrow { display: flex; align-items: center; gap: 16px; margin-top: 16px; }
-.biz .card .brandrow + .brandrow { margin-top: 10px; }
+.biz .card .brandrow { display: flex; align-items: center; gap: 10px; margin-top: 16px; }
 .biz .card .brandrow img { height: auto; max-height: 22px; min-width: 0; flex: 0 1 auto; margin: 0; }
 @media (max-width: 700px) { .split, .people { grid-template-columns: 1fr; } }
-@media (max-width: 560px) {
-  .biz .card .brands { display: flex; align-items: center; gap: 10px; margin-top: 16px; }
-  .biz .card .brands .brandrow { display: contents; }
-}
