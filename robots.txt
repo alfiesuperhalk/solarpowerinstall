@@ -21,4 +21,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://alfiesuperhalk.github.io/solarpowerinstall/sitemap.xml
+Sitemap: https://solarpowerinstall.energy/sitemap.xml

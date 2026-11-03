@@ -2,7 +2,7 @@
 
 Installation website for **SOLAR HE and Sons**. Fil Solar Depot sells the panels; this site is where customers book installation.
 
-- **Live:** https://alfiesuperhalk.github.io/solarpowerinstall/
+- **Live:** https://solarpowerinstall.energy/
 - **Repo:** https://github.com/alfiesuperhalk/solarpowerinstall
 - **Sister site:** Fil Solar Depot → https://alfiesuperhalk.github.io/FilSolarDepot/ (source: `Documents/FilSolarDepot`)
 - **Credit:** totoantonio.cloud (hidden in page meta: `designer`, `creator`, HTML comment)
@@ -76,5 +76,5 @@ Navigation: at 1100px wide or narrower the top links move into a hamburger menu.
 ## SEO / AI visibility
 - `llms.txt` (summary for ChatGPT, Claude, Perplexity), `robots.txt` (all search and AI bots allowed), `sitemap.xml`
 - Structured data (JSON-LD) in `<head>`: business profile + FAQ; geo tags for Cagayan de Oro
-- On github.io, robots.txt and llms.txt only count at the domain root, so they take full effect after moving to a custom domain. Until then, submit `sitemap.xml` in Google Search Console and Bing Webmaster Tools
+- Custom domain `solarpowerinstall.energy` (set by the `CNAME` file), so robots.txt and llms.txt sit at the domain root. Submit `sitemap.xml` in Google Search Console and Bing Webmaster Tools
 - Keep llms.txt and JSON-LD in sync when contact details, products or FAQ change
