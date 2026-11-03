@@ -15,10 +15,10 @@
 - Panels supplied by sister company Fil Solar Depot: https://totoantonio.github.io/FilSolarDepot/
 
 ## Pages
-- [Home](https://totoantonio.github.io/solarpowerinstall/): services, how it works, booking form, FAQ
-- [Book an installation](https://totoantonio.github.io/solarpowerinstall/#book)
-- [Services](https://totoantonio.github.io/solarpowerinstall/#services)
-- [FAQ](https://totoantonio.github.io/solarpowerinstall/#faq)
+- [Home](https://alfiesuperhalk.github.io/solarpowerinstall/): services, how it works, booking form, FAQ
+- [Book an installation](https://alfiesuperhalk.github.io/solarpowerinstall/#book)
+- [Services](https://alfiesuperhalk.github.io/solarpowerinstall/#services)
+- [FAQ](https://alfiesuperhalk.github.io/solarpowerinstall/#faq)
 
 ## How it works
 1. Book online or call +63 917 123 4641
