@@ -12,7 +12,7 @@
 - Phone: +63 917 123 4641
 - Email: install@solarheandsons.com
 - Hours: Monday to Saturday, 8:00 AM to 5:00 PM
-- Panels supplied by sister company Fil Solar Depot: https://totoantonio.github.io/FilSolarDepot/
+- Panels supplied by sister company Fil Solar Depot: https://alfiesuperhalk.github.io/FilSolarDepot/
 
 ## Pages
 - [Home](https://alfiesuperhalk.github.io/solarpowerinstall/): services, how it works, booking form, FAQ

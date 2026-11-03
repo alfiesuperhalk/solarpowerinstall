@@ -4,7 +4,7 @@ Installation website for **SOLAR HE and Sons**. Fil Solar Depot sells the panels
 
 - **Live:** https://alfiesuperhalk.github.io/solarpowerinstall/
 - **Repo:** https://github.com/alfiesuperhalk/solarpowerinstall
-- **Sister site:** Fil Solar Depot → https://totoantonio.github.io/FilSolarDepot/ (source: `Documents/FilSolarDepot`)
+- **Sister site:** Fil Solar Depot → https://alfiesuperhalk.github.io/FilSolarDepot/ (source: `Documents/FilSolarDepot`)
 - **Credit:** totoantonio.cloud (hidden in page meta: `designer`, `creator`, HTML comment)
 
 ## Stack
