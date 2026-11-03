@@ -11,7 +11,7 @@ Installation website for **SOLAR HE and Sons**. Fil Solar Depot sells the panels
 Two pages sharing one `styles.css`, plus `images/`. Scripts are inline in each page. No framework, no build step. Font: Plus Jakarta Sans (Google Fonts); Poppins is loaded only for the SOLAR logo.
 
 ## Files
-- `index.html` — home page
+- `index.html` — home page; booking form sends to Formspree form `xpppovza` (emails each booking)
 - `company-profile.html` — HE and Sons Corporation profile (from the HASC sheet of `SolarHEandSons Page.xlsx`); header, footer and hamburger script are copied from `index.html`, so update both when those change
 - `styles.css` — styles for both pages
 - `images/hesc-office.jpg`, `hesc-building.jpg`, `henry-yu.jpg`, `harley-yu.jpg`, `henrik-yu.jpg` — cropped from the profile slides
@@ -66,7 +66,6 @@ Navigation: at 1100px wide or narrower the top links move into a hamburger menu.
 - "500+ Systems Installed" (made up, marked "draft"), "1–3 days" install time
 - Workmanship warranty term
 - Installation prices or "quote after survey"
-- Formspree ID `YOUR_FORM_ID` in the booking form (form doesn't send until set)
 - Confirm Pag-IBIG, SSS, Home Credit, GCash are really accepted; use official logo files with permission
 - Trusted By logos are SAMPLES (Surigao seal + Kibawe Farm + 8 made-up names). Replace with real clients, with permission
 - Company profile PDF: save it as `company-profile.pdf` in this folder (the Download button on the profile page links to it; visitors get it as `HE-and-Sons-Company-Profile.pdf`)
