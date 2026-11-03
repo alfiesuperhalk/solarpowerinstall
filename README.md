@@ -17,6 +17,8 @@ One `index.html` (styles + script inside) and `images/`. No framework, no build 
 - `images/favicon.svg`, `images/apple-touch-icon.png` — site icons
 - `images/pagibig.svg`, `sss.svg`, `homecredit.png`, `gcash.svg` — "We Accept" logos (Wikimedia Commons)
 - `images/surigao.png` — City of Surigao seal (Wikimedia Commons), sample client logo
+- `images/bukidnon-1.jpg` to `bukidnon-10.jpg` — real installation photos, Malaybalay City, Oct 2026 (Commissioned sheet of `SolarHEandSons Page.xlsx`)
+- `images/operations-manager.jpg` — crew with the Operations Manager, Cagayan de Oro, Oct 24, 2026 (OM sheet of the same file)
 
 ## Preview and publish
 - Preview: `open index.html`
@@ -41,17 +43,21 @@ Headlines: Poppins Black Italic, highlighted word in green (yellow on the green 
 4. Backed by HE & SONS + "#1 Top Solar Installer" panel
 5. Our Services (6 cards)
 6. How It Works (4 steps)
-7. Book Your Installation form + contact details
-8. FAQ
-9. Trusted By: gray client logos rolling left to right in one line (marquee), not clickable
-10. Footer; phone bottom bar (Call Us / Book Now)
+7. Commissioned in Bukidnon (`#projects`): uncropped photo gallery as proof of installation, 3 columns on desktop, 1 on phones; last photo has the one-line Operations Manager note
+8. Book Your Installation form + contact details
+9. FAQ
+10. Trusted By: gray client logos rolling left to right in one line (marquee), not clickable
+11. Footer; phone bottom bar (Call Us / Book Now)
 
 Cards rise in on scroll and lift on hover. Layout checked from 320px to 1440px wide with no sideways overflow.
+
+Navigation: at 900px wide or narrower the top links move into a hamburger menu. `scroll-padding-top` in the `html` style keeps section titles clear of the sticky header after a menu jump; update it if the header height changes.
 
 ## Still draft / need from the company
 - Company name: headline says "Solar Power Install", logo/title/footer say "SOLAR HE and Sons" (decide later)
 - Logo file (SVG or high-res PNG); current logo is redrawn from the flyer
-- Real installer photos we have rights to use
+- Real hero photo we have rights to use (hero is still the stock photo)
+- Confirm permission for the live gallery photos: crew faces, client sites; `operations-manager.jpg` shows a street address and two readable license plates
 - Email, address, service area, hours (draft: install@solarheandsons.com, Cagayan de Oro City, Mon–Sat 8 AM–5 PM). Also in the SEO data (JSON-LD in `<head>`), update both
 - "500+ Systems Installed" (made up, marked "draft"), "1–3 days" install time
 - Workmanship warranty term
