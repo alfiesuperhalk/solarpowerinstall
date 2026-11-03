@@ -62,7 +62,7 @@ Navigation: at 1100px wide or narrower the top links move into a hamburger menu.
 - Logo file (SVG or high-res PNG); current logo is redrawn from the flyer
 - Real hero photo we have rights to use (hero is still the stock photo)
 - Confirm permission for the live gallery photos: crew faces, client sites; `operations-manager.jpg` shows a street address and two readable license plates
-- Email, address, service area, hours (draft: install@solarheandsons.com, Cagayan de Oro City, Mon–Sat 8 AM–5 PM). Also in the SEO data (JSON-LD in `<head>`), update both
+- Email, address, service area, hours (draft: loydrandolf.tires@gmail.com, Cagayan de Oro City, Mon–Sat 8 AM–5 PM). Also in the SEO data (JSON-LD in `<head>`), update both
 - "500+ Systems Installed" (made up, marked "draft"), "1–3 days" install time
 - Workmanship warranty term
 - Installation prices or "quote after survey"
