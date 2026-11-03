@@ -28,6 +28,7 @@ nav a { color: var(--navy); text-decoration: none; font-weight: 500; font-size: 
 nav a:hover { color: var(--green); }
 nav .btn { padding: 10px 20px; color: #fff; }
 #menu { display: flex; align-items: center; gap: 26px; }
+.edit { display: grid; place-items: center; }
 .burger { display: none; place-items: center; width: 44px; height: 44px; padding: 0; border: 0; background: none; color: var(--navy); cursor: pointer; }
 
 /* hero */
