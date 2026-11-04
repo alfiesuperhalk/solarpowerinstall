@@ -170,6 +170,8 @@
 </div>
 
 <script>
+  // phone bar: show once the 3rd section reaches mid-screen
+  addEventListener("scroll", () => document.querySelector(".mbar").classList.toggle("show", document.querySelectorAll("section")[2].getBoundingClientRect().top < innerHeight / 2), { passive: true });
   // hamburger: tapping it toggles the menu, any other tap closes it
   const menu = document.getElementById('menu'), burger = document.getElementById('burger');
   document.addEventListener('click', e => {
